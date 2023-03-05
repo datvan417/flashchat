@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "146798041742",
+    "project_id": "flash-chat-be80d",
+    "storage_bucket": "flash-chat-be80d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146798041742:android:5b581a11887967490f87df",
+        "android_client_info": {
+          "package_name": "com.Uchiha_Itachi.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146798041742-j4jlj2gkebg7g2i55odof0oiocpi8e0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdZRwZZRB4B60zpL5cXqvYANqa9mGn5og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146798041742-j4jlj2gkebg7g2i55odof0oiocpi8e0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
